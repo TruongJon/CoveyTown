@@ -51,6 +51,8 @@
         "@types/ramda": "^0.27.34",
         "ramda": "^0.27.1",
         "typescript-is": "^0.17.0",
+        "openapi-typescript-codegen": "^0.23.0",
+        "swagger-ui-express": "^4.4.0",
         "@types/jest": "^26.0.15",
         "@typescript-eslint/eslint-plugin": "^4.8.1",
         "@typescript-eslint/parser": "^4.8.1",
